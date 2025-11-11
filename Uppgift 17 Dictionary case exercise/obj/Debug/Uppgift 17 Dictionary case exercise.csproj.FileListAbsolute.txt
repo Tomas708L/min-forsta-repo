@@ -1,0 +1,8 @@
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 17 Dictionary case exercise\bin\Debug\Uppgift 17 Dictionary case exercise.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 17 Dictionary case exercise\bin\Debug\Uppgift 17 Dictionary case exercise.exe
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 17 Dictionary case exercise\bin\Debug\Uppgift 17 Dictionary case exercise.pdb
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 17 Dictionary case exercise\obj\Debug\Uppgift 17 Dictionary case exercise.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 17 Dictionary case exercise\obj\Debug\Uppgift 17 Dictionary case exercise.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 17 Dictionary case exercise\obj\Debug\Uppgift 17 Dictionary case exercise.exe
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 17 Dictionary case exercise\obj\Debug\Uppgift 17 Dictionary case exercise.pdb
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 17 Dictionary case exercise\obj\Debug\Uppgift 17 Dictionary case exercise.exe.config
