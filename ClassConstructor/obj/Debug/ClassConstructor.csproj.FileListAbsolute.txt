@@ -1,0 +1,7 @@
+C:\Users\admin1\Documents\C#\ClassConstructor\bin\Debug\ClassConstructor.exe.config
+C:\Users\admin1\Documents\C#\ClassConstructor\bin\Debug\ClassConstructor.exe
+C:\Users\admin1\Documents\C#\ClassConstructor\bin\Debug\ClassConstructor.pdb
+C:\Users\admin1\Documents\C#\ClassConstructor\obj\Debug\ClassConstructor.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\C#\ClassConstructor\obj\Debug\ClassConstructor.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\C#\ClassConstructor\obj\Debug\ClassConstructor.exe
+C:\Users\admin1\Documents\C#\ClassConstructor\obj\Debug\ClassConstructor.pdb

@@ -1,0 +1,8 @@
+C:\Users\admin1\Documents\C#\ClassGrader\bin\Debug\ClassGrader.exe.config
+C:\Users\admin1\Documents\C#\ClassGrader\bin\Debug\ClassGrader.exe
+C:\Users\admin1\Documents\C#\ClassGrader\bin\Debug\ClassGrader.pdb
+C:\Users\admin1\Documents\C#\ClassGrader\obj\Debug\ClassGrader.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\C#\ClassGrader\obj\Debug\ClassGrader.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\C#\ClassGrader\obj\Debug\ClassGrader.exe
+C:\Users\admin1\Documents\C#\ClassGrader\obj\Debug\ClassGrader.pdb
+C:\Users\admin1\Documents\C#\ClassGrader\obj\Debug\ClassGrader.exe.config

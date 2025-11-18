@@ -1,0 +1,7 @@
+C:\Users\admin1\Documents\C#\ClassProperties\bin\Debug\ClassProperties.exe.config
+C:\Users\admin1\Documents\C#\ClassProperties\bin\Debug\ClassProperties.exe
+C:\Users\admin1\Documents\C#\ClassProperties\bin\Debug\ClassProperties.pdb
+C:\Users\admin1\Documents\C#\ClassProperties\obj\Debug\ClassProperties.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\C#\ClassProperties\obj\Debug\ClassProperties.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\C#\ClassProperties\obj\Debug\ClassProperties.exe
+C:\Users\admin1\Documents\C#\ClassProperties\obj\Debug\ClassProperties.pdb
